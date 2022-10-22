@@ -1,1 +1,1 @@
-# C-Language - Simple case what i learn in BINUS University.
+Simple C++ program or case when i learn in BINUS University.
